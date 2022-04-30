@@ -12,4 +12,4 @@
 
 ### Feel free to contact me via lukas.malik@web.de 
 
-[![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumalik)](https://github.com/lumalik/github-readme-s$)
+![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumalik&count_private=true)
