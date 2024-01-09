@@ -2,7 +2,7 @@
 
 ## Hello there 👋 my name is Lukas Malik
 
-### I currently work as an AI Engineer <s>@Xayn</s>
+### I currently work as an AI Engineer Unic <s>@Xayn</s>
 
 #### I am a double major with a diverse background in ...
 - 🤖 Artificial Intelligence (MSc.) @ University Paris-Saclay
